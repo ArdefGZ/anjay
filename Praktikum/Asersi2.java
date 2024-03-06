@@ -1,3 +1,4 @@
+package Praktikum;
 class Lingkaran{
     private double jariJari;
     public Lingkaran(double jariJari){

@@ -1,3 +1,4 @@
+package Praktikum;
 public class AngkaSial {
     public void cobaAngka(int angka) throws AngkaSialException{
         if(angka==13){

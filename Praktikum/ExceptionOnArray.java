@@ -1,3 +1,4 @@
+package Praktikum;
 public class ExceptionOnArray {
     public static void main(String[] args){
         Integer[] arrayInteger = new Integer[4];

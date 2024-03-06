@@ -1,3 +1,4 @@
+package Praktikum;
 public class Asersi1{
     public static void main(String[] args){
         int x = 0;
